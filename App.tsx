@@ -3,7 +3,7 @@ import {Button, Linking, View} from 'react-native';
 
 const App = () => {
   const call = () => {
-    Linking.openURL('tel: + 7669785550');
+    Linking.openURL('tel: + 9548880111');
   };
 
   const whatsApp = () => {
